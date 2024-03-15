@@ -99,13 +99,31 @@ Testing the challenge might be tricky. How could I scale up my tests? What edge 
 
 - Scale the tests and ensure adequate test coverage, possibly introduce randomised tests 
 - Add extra features to the challenge:
-    - One ring to rule them all
-    - Test varied grid sizes
+    - One ring to rule them all - introducing a wildcard element into the challenge
+    - Test for varied grid input sizes 
 - Upload to Codewars
 
+## 💍Self-Reflection
 
+**Successes**
 
-## 💍Feedback
+- Hopefully I've succeeded in building a creative and engaging challenge
+- I think I made good use of the creative part of my planning stage
+- Managed to reach a Minimum Viable Product
+- I created a challenge that I would want to solve if I saw it on Codewars
+- I created a presentation/README that I would understand and find engaging if I had to read through it 
+- I communicated well with my team mates and offered my support with their projects
+
+**Improvements**
+
+- I probably could have done more to support my team mates with their projects
+- I could have set an easier or more achievable target for my first MVP, and built the project further from there
+- I have a tendency to jump straight to code, and I should have spent more time in the planning stages
+- Themed and wordy Katas can be offputting to some people - I've definitely skipped a few like that myself. Sometimes the best katas are the most simple and vaguely instructed ones. 
+- My test coverage may not be sufficient and cover edge cases I haven't considered
+- The challenge may be overcomplicated and too difficult to come to grips with
+
+## 💍Feedback 
 
 **TBD**
 

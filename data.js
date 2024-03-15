@@ -19,7 +19,7 @@ export const gimliWins = [
   export const draw = [
     ['G', 'S', 'G', 'S', 'G', 'G', 'G'],
     ['G', 'G', 'S', 'S', 'G', 'S', 'S'],
-    ['S', 'S', 'S', 'G', 'G', 'G', 'S'],
+    ['S', 'S', 'S', 'G', 'S', 'G', 'S'],
     ['G', 'S', 'S', 'G', 'S', 'G', 'S'],
     ['G', 'S', 'G', 'S', 'G', 'S', 'G'],
     ['S', 'G', 'S', 'S', 'G', 'G', 'S']
