@@ -36,6 +36,6 @@
 
 //Good luck, and remember: 'Not all those who wander are lost!'
 
-export function myPrecious(rings) {
+export function myPrecious(ringsArray) {
     return 'What about second breakfast?';
 }
