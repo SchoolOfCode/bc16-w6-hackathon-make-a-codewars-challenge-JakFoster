@@ -120,7 +120,7 @@ Testing the challenge might be tricky. How could I scale up my tests? What edge 
 - I could have set an easier or more achievable target for my first MVP, and built the project further from there
 - I have a tendency to jump straight to code, and I should have spent more time in the planning stages
 - Themed and wordy Katas can be offputting to some people - I've definitely skipped a few like that myself. Sometimes the best katas are the most simple and vaguely instructed ones. 
-- My test coverage may not be sufficient and cover edge cases I haven't considered
+- My test coverage is not sufficient and doesn't cover certain edge cases 
 - The challenge may be overcomplicated and too difficult to come to grips with
 
 ## 💍Feedback 
